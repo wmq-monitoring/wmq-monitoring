@@ -6,3 +6,6 @@ WMQ Monitoring Tool
 
 ### Installation
 Please refer to the [installation wiki](https://github.com/wmq-monitoring/wmq-monitoring/wiki/Installation)
+
+### FAQ
+Please refer to the [FAQ wiki](https://github.com/wmq-monitoring/wmq-monitoring/wiki/FAQ)
