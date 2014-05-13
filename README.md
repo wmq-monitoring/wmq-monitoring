@@ -13,7 +13,7 @@ WMQ Monitoring Tool
 ## Releases
 
 
-### 0.2.1 RC1 Release (2014-5-13) 
+### 0.2.1 RC1 (2014-5-13) 
   - Supports MQ V7.0 and higher
   - Download from here [wmq-monitoring-v0.2.1_RC1.zip](https://dl.dropboxusercontent.com/u/68813606/wmq-monitoring/wmq-monitoring-0.2.1_RC1.zip) 
   
