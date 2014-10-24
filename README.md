@@ -9,6 +9,7 @@ WMQ Monitoring Tool
 * [Installation](https://github.com/wmq-monitoring/wmq-monitoring/wiki/Installation)
 * [FAQ](https://github.com/wmq-monitoring/wmq-monitoring/wiki/FAQ)
 
+**NOTE**: Please read the documents included the distribution package `wmq-monitoring-VERSION.zip`, the IBM developerWorks article is out of date.
 
 ## Releases
 
