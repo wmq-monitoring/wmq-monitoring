@@ -18,6 +18,7 @@ WMQ Monitoring Tool
   - Supports MQ V7.0 and higher
   - Fixed some bugs and improved stability
   - Download from here [wmq-monitoring-v0.2.1.zip](https://dl.dropboxusercontent.com/u/68813606/wmq-monitoring/wmq-monitoring-0.2.1.zip) 
+  -  **NOTE**: Fix bug: incorrect alert, e.g. `rule= warn(currentQDepth>100), error(currentQDepth>500)'`, but `currentQDepth=36` will generate `WARN` alert which is wrong.  Please download [wmq-monitoring-0.2.1.jar]( https://dl.dropboxusercontent.com/u/68813606/wmq-monitoring/bugfix/0.2.1/wmq-monitoring-0.2.1.jar) and [jsr305-2.0.2.jar]( https://dl.dropboxusercontent.com/u/68813606/wmq-monitoring/bugfix/0.2.1/jsr305-2.0.2.jar), just drop them to `WEB-INF/lib` to fix this issue.
   
 
 ### 0.2.1 RC1 (2014-5-13) 
