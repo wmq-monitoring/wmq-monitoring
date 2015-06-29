@@ -13,6 +13,14 @@ WMQ Monitoring Tool
 
 ## Releases
 
+### 0.2.2 Release (2015-6-29)
+  - Supports MQ V7.0 and higher
+  - Fixed incorrect alert, e.g. rule= warn(currentQDepth>100), error(currentQDepth>500)', currentQDepth=36 will generate WARN alert.
+  - Fixed statistics cache size which is incorrectly configured.
+  - Fixed incorrect platform value for IBM i and HP Integrity NonStop Server.
+  - Fixed issues when deploying to GlassFish Server V4.
+  - Drop in replacement for V0.2.1
+  - Download from dropbox [wmq-monitoring-v0.2.2.zip](https://dl.dropboxusercontent.com/u/68813606/wmq-monitoring/wmq-monitoring-0.2.2.zip) or from mega [wmq-monitoring-v0.2.2.zip](https://mega.co.nz/#!Zg0yCBaZ!Aep5NS3KSFVDFQRW35rtaCvCVrWA4p6aSoeyRdBdUAI)
 
 ### 0.2.1 Release (2014-10-22) 
   - Supports MQ V7.0 and higher
